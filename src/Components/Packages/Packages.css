@@ -1,0 +1,42 @@
+.Packages{
+    width: 100vw;
+    height: max-content;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    
+}
+.card{
+    width: 100%;
+    flex: 20%;
+    height: max-content;
+    box-shadow: 3px 3px 4px rgb(61, 60, 60);
+    margin: 4rem;
+    border-radius: 10px;
+}
+.package-img{
+    width: 20vw;
+    height: 22vh;
+}
+@media only screen and (max-width:960px) {
+    .package-img{
+        width: 30vw;
+        height: 22vh;
+    }
+    .card{
+        margin: 2rem;
+    }
+}
+.card p{
+    color: grey;
+}
+.card ul{
+    list-style-type: none;
+    display: block;
+    margin: auto;
+    color: grey;
+    
+}
+.card hr{
+    width: 15vw;
+}

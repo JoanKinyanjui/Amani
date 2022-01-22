@@ -1,0 +1,42 @@
+.MainView{
+    width: 100vw;
+    height:80vh;
+    background-image: linear-gradient(to bottom,transparent,black)  ,url('/public//Images/amani10.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    
+    
+}
+.wordings{
+    width: 100%;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 30%;
+    font-size: 40px;
+    color: whitesmoke;
+    /* background-image: linear-gradient(to bottom, transparent, rgb(42, 41, 41),transparent); */
+    font-family: 'System';
+    
+}
+.wordings1{
+    width: 100%;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 40%;  
+    font-size: 40px;
+    color: whitesmoke;
+    /* background-image: linear-gradient(to bottom, transparent, rgb(42, 42, 42),transparent); */
+    font-family: 'System';
+    display: none;
+}
+.wordings h2{
+    margin: auto;
+}

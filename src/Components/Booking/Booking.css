@@ -1,0 +1,46 @@
+.Booking{
+    width: 100vw;
+    height: 80vh;
+    background-image: url('/public/Images/amani12.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.Booking-1{
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    position: absolute;
+    bottom: 50%;
+}
+.ul-booking{
+    width: 100vw;
+    list-style-type: none;
+    margin: auto;
+    display: flex;
+}
+.ul-booking li{
+    margin: 10%;
+}
+.Booking-1 h3{
+    color: whitesmoke;
+    flex: 20%;
+    
+}
+.Booking-1 button{
+   padding: 10px;
+   background-color: transparent;
+   font-family: Cooper;
+   outline: white;
+   border: 1px white solid;
+   color: whitesmoke;
+   border-radius: 20px;
+   margin: auto;
+   
+}
+.fas{
+    color: white;
+    flex: 20%;
+}
