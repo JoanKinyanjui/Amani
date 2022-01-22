@@ -14,16 +14,11 @@
     margin: 4rem;
     border-radius: 10px;
 }
-.package-img{
-    width: 20vw;
-    height: 22vh;
-}
+
 @media only screen and (max-width:960px) {
-    .package-img{
-        width: 30vw;
-        height: 22vh;
-    }
+    
     .card{
+        flex: 50%;
         margin: 2rem;
     }
 }

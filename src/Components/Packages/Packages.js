@@ -9,7 +9,7 @@ function Packages() {
     <div className='Packages'>
     <div className='card'>
         <h6>Carpets</h6>
-        <img src='/Images/amani5.jpg' className='package-img'/>
+       
         <p>30min</p>
         <hr />
         <div><h5>ksh 300/ksh600</h5></div>
@@ -20,7 +20,7 @@ function Packages() {
 
       <div className='card'>
         <h6>Motor Bikes</h6>
-        <img src='/Images/amani5.jpg' className='package-img'/>
+      
         <p>30min</p>
         <hr />
         <div><h5>ksh 300</h5></div>
@@ -36,7 +36,7 @@ function Packages() {
      
       <div className='card'>
         <h6>Regular Small Bikes</h6>
-        <img src='/Images/amani5.jpg' className='package-img'/>
+      
         <p>30min</p>
         <hr />
         <div><h5>ksh 300</h5></div>
@@ -51,7 +51,7 @@ function Packages() {
       </div>
       <div className='card'>
         <h6>Medium Sized Cars</h6>
-        <img src='/Images/amani5.jpg' className='package-img'/>
+       
         <p>30min</p>
         <hr />
         <div><h5>ksh 300</h5></div>
@@ -66,7 +66,6 @@ function Packages() {
       </div>
       <div className='card'>
         <h6>Trucks</h6>
-        <img src='/Images/amani5.jpg' className='package-img'/>
         <p>30min</p>
         <hr />
         <div><h5>ksh 300</h5></div>
