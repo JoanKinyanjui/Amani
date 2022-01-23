@@ -1,6 +1,8 @@
 .Contacts{
     width: 100vw;
     height: max-content;
+    padding-top: 3rem;
+    padding-bottom: 4rem;
     background-color: burlywood;
     margin-top: 2rem;
     color: #0000;

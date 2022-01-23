@@ -1,12 +1,13 @@
 .Footer{
     width: 100vw;
-    height: 70vh;
+    height: max-content;
     background-color: black;
     color: white;
     font-size: 16px;
     display: flex;
     text-align: center;
     flex-wrap: wrap;
+    padding-top: 3rem;
  
 }
 .Footer1{
