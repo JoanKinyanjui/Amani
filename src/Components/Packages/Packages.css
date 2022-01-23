@@ -3,22 +3,23 @@
     height: max-content;
     display: flex;
     flex-wrap: wrap;
-    margin-top: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
     
 }
 .card{
     width: 100%;
-    flex: 20%;
+    flex: 10%;
     height: max-content;
     box-shadow: 3px 3px 4px rgb(61, 60, 60);
-    margin: 4rem;
+    margin: 1rem;
     border-radius: 10px;
 }
 
 @media only screen and (max-width:960px) {
     
     .card{
-        flex: 50%;
+        flex: 20%;
         margin: 2rem;
     }
 }

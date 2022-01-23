@@ -1,5 +1,6 @@
 import React from 'react';
 import Booking from '../Booking/Booking';
+import Contact from '../Contact/Contact';
 import Footer from '../Footer/Footer';
 import Gallery from '../Gallery/Gallery';
 import MainView from '../Main/MainView';
@@ -14,6 +15,7 @@ function Home() {
       <Packages />
       <Booking />
       <Gallery />
+      <Contact />
       <Footer />
       </>
   )

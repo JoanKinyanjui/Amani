@@ -1,5 +1,53 @@
 .Footer{
     width: 100vw;
-    height: 100vh;
+    height: 70vh;
     background-color: black;
+    color: white;
+    font-size: 16px;
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+ 
+}
+.Footer1{
+    flex: 50%;
+    height: max-content;
+    border: 1px black solid;
+    
+}
+.Footer ul{
+    list-style-type: none;
+}
+@media only screen and (min-width: 900px) {
+  .Footer1{
+      flex: 30%;
+  }
+  }
+  
+/* Socials */
+.Socials{
+    width: 60vw;
+    height: 20vh;
+    color: white;
+    margin: auto;
+}
+@media screen and(max-width:960px) {
+    .Socials{
+        width: 90vw;
+    }
+ 
+}
+@media only screen and(max-width:960px) {
+    .Socials{
+        width: 90vw;
+    }
+
+}
+.Socials ul{
+    list-style-type: none;
+    display: flex;
+    
+}
+.Socials ul li{
+    margin: auto;
 }

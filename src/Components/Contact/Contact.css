@@ -1,0 +1,20 @@
+.Contacts{
+    width: 100vw;
+    height: max-content;
+    background-color: burlywood;
+    margin-top: 2rem;
+    color: #0000;
+}
+.container-contact{
+    display: flex;
+    margin: auto;
+    text-align: center;
+    color: black;
+    font-family: System;
+    flex-wrap: wrap;
+}
+.specific-contact{
+    margin: auto;
+    flex: 30%;
+    width: 100%;
+}
