@@ -10,7 +10,25 @@
 }
 .offer{
     text-align: center;
+   
 }
+@media only screen and (max-width:1200px) {
+    .Services p{
+        color: gray;
+        margin-top: 3rem;
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+}
+@media only screen and (max-width:480px) {
+    .Services p{
+        color: gray;
+        margin-top: 3rem;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+}
+ 
 .Services-display{
     display: flex;
     width: 100vw;
@@ -18,7 +36,7 @@
     flex-wrap: wrap;
 }
 .display{
-    flex: 30%;
+    flex: 20%;
     width: 100%;
     padding-top: 3rem;
     padding-bottom: 3rem;

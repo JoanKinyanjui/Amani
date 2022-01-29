@@ -10,27 +10,29 @@
 }
 @media only screen and (max-width:960px) {
     .Team-img{
-        width: 30vw;
+        width: 45vw;
         height: 20vh;
     }
     .Team1{
         width: 40vw;
         height: max-content;
+        font-size: 10px;
        
     }
 }
 .Team1{
-    width: 30vw;
+    width: 25vw;
     height: max-content;
     box-shadow: grey 3px 3px 4px;
     margin: 1rem;
     border-radius: 10px;
     text-align: center;
+    font-size: 12px;
 }
 
 .Team-img{
     padding-top: 10px;
-    width: 20vw;
+    width: 15vw;
     height: 30vh;
     border-radius: 5px;
 }

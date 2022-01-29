@@ -11,7 +11,9 @@ function MainView(props){
               fontSize: '0px',
               opacity: 0,
               ease: 'sine',
-              color:'transparent'
+              color:'transparent',
+              repeat: -1,
+              yoyo: true
           }
       )
   })
