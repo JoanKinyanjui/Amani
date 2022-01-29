@@ -8,6 +8,7 @@ function Contactus(){
         <>
              
         <div className='Contact'>
+        <img  className='array-img' src='/Images/amani2.jpg' />
             <div className='Contactus'>
                   <h3 className='call' >AMANI CARWASH </h3>
                 <p className='call'>
@@ -25,7 +26,7 @@ function Contactus(){
                 </p>
             </div>
             <div className='array'>
-           <img  className='array-img' src='/Images/amani2.jpg' />
+
         </div>
         </div>
         <Contact />

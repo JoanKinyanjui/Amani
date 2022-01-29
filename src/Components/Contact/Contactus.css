@@ -1,19 +1,23 @@
 .Contact{
     width: 100%;
-     height: 100vh;
+     height: max-content;
      text-align: center;
-     display: flex;
+     margin-top: 0%;
     
  }
  .Contactus{
+     width: 100vw;
      text-align: center;
-     height:max-content ;
+     height:max-content;
      margin:auto;
+     background-color: white;
+     padding-top: 2rem;
     
  
  }
  .call{
      margin: 2rem;
+     opacity: 1;
 
  }
  .fab {
@@ -25,8 +29,7 @@
 
  }
  .array-img{
-     margin-top: 15vh;
-     opacity: 1;
+    opacity: 1;
      height: 70vh;
      border-radius: 100%;
  }
