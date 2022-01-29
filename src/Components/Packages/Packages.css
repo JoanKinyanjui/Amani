@@ -9,19 +9,24 @@
     padding-bottom: 3rem;
     
 }
+.who-is{
+    margin: auto;
+    text-align: center;
+ }
 .card{
     width: 100%;
-    flex: 10%;
+    flex: 12%;
     height: max-content;
     box-shadow: 3px 3px 4px rgb(61, 60, 60);
-    margin: 1rem;
+    margin: 0.5rem;
     border-radius: 10px;
+    text-align: center;
 }
 
 @media only screen and (max-width:960px) {
     
     .card{
-        flex: 20%;
+        flex: 22%;
         margin: 2rem;
     }
 }
@@ -33,6 +38,7 @@
     display: block;
     margin: auto;
     color: grey;
+    font-size: 12px;
     
 }
 .card hr{

@@ -1,0 +1,36 @@
+.Team{
+    width: 100vw;
+    height: max-content;
+    padding-bottom: 3rem;
+    padding-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+@media only screen and (max-width:960px) {
+    .Team-img{
+        width: 30vw;
+        height: 20vh;
+    }
+    .Team1{
+        width: 40vw;
+        height: max-content;
+       
+    }
+}
+.Team1{
+    width: 30vw;
+    height: max-content;
+    box-shadow: grey 3px 3px 4px;
+    margin: 1rem;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.Team-img{
+    padding-top: 10px;
+    width: 20vw;
+    height: 30vh;
+    border-radius: 5px;
+}

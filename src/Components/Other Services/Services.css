@@ -1,0 +1,40 @@
+.Services{
+    width: 100vw;
+    height: max-content;
+}
+.Services p{
+    color: gray;
+    margin-top: 3rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+.offer{
+    text-align: center;
+}
+.Services-display{
+    display: flex;
+    width: 100vw;
+    height: max-content;
+    flex-wrap: wrap;
+}
+.display{
+    flex: 30%;
+    width: 100%;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    text-align: center;
+}
+.display p{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+@media only screen and (max-width:960px) {
+   .display{
+       flex: 40%;
+   }
+}
+@media only screen and (max-width:600px) {
+    .display{
+        flex: 60%;
+    }
+}

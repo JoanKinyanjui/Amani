@@ -10,9 +10,13 @@ import Who from '../Who/Who';
 function Home() {
   return(
       <>
-      <MainView />
+      <MainView 
+      title2='YOUR CAR IS ALWAYS IN GREAT HANDS WITH US'
+      title3='WE LOVE YOUR CAR AS MUCH AS YOU DO'
+      className='MainView'
+       />
       <Who />
-      <Packages />
+      <Packages/>
       <Booking />
       <Gallery />
       <Contact />

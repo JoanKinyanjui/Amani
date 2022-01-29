@@ -4,10 +4,9 @@ import './Who.css';
 function Who() {
   return(
       <div className='Who'>
-      <div>
+      <div className='who-is'>
           <h2>Who Is AMANI Carwash?</h2>
-          <i>Car wash & detailling service
-</i>
+          <i>Car wash & detailling service</i>
       </div>
       <div className='container'>
         <div className='col-1'>
@@ -15,7 +14,7 @@ function Who() {
              <img className='img-1' src='/Images/amani6.jpg'/>
                
             
-            <p><i class="fas fa-3x fa-car"></i><br /><br /><br />
+            <p><i class="fa fa-3x fa-car"></i><br /><br /><br />
                 Amani CarWash is an eco-friendly, hand car wash and detailing service based in Juja(Sewage). 
                 Our company was founded back in 2020 by a an enterprenuer Mr Kimando Njogu.
                   Our goal is to provide our customers with the friendliest, 

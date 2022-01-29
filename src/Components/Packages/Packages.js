@@ -4,7 +4,9 @@ import './Packages.css';
 function Packages() {
   return (
       <>
-    <h3>WASH PACKAGES</h3>
+      <div className='who-is'>
+    <h3 >WASH PACKAGES</h3>
+    </div>
 
     <div className='Packages'>
     <div className='card'>

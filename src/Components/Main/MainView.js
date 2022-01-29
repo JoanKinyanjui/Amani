@@ -1,21 +1,22 @@
 import React from 'react';
 import './Main.css';
 
-function MainView() {
+function MainView(props){
+  
   return (
-      <div className='MainView'>
+      <div className={props.className}>
 
-        <div className='wordings'>
+        <div  className='wordings'>
     
           <h2>AMANI CARWASH</h2>
-          <h6>YOUR CAR IS ALWAYS IN GREAT HANDS WITH US</h6>
+          <h6>{props.title2}</h6>
 
      
         </div>
         <div className='wordings1'>
     
     <h2>AMANI CARWASH</h2>
-    <h6>WE LOVE YOUR CAR AS MUCH AS YOU DO</h6>
+    <h6>{props.title3}</h6>
 
 
   </div>

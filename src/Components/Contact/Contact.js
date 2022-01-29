@@ -1,8 +1,10 @@
 import React from 'react';
 import './Contact.css';
+import Contactus from './Contactus';
 
 function Contact() {
   return (
+      <>
   <div className='Contacts'>
      
       <div className='container-contact'>
@@ -30,6 +32,7 @@ function Contact() {
 
       </div>
       </div>
+      </>
   )
 }
 

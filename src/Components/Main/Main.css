@@ -7,6 +7,15 @@
     background-repeat: no-repeat;
 
     
+}
+.MainView1{
+    width: 100vw;
+    height:80vh;
+    background-image: linear-gradient(to bottom,transparent,transparent,transparent,transparent,transparent,rgb(47, 46, 46)) ,url('/public//Images/amani14.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
     
 }
 .wordings{

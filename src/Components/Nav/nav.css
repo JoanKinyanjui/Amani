@@ -1,0 +1,21 @@
+.Nav{
+  width: 100vw;
+  height: 12vh;
+  line-height: 3vh;
+  background-image: linear-gradient(to bottom,black,rgb(46, 44, 44),grey,transparent);
+  padding-bottom: 10px;
+  position: fixed;
+ 
+}
+.nav-items{
+  display: flex;
+  text-align: center;
+}
+.nav-items li{
+  margin: auto;
+  list-style-type: none;
+}
+.nav-item{
+  text-decoration: none;
+  color: white;
+}
