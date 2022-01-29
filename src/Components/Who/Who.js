@@ -25,7 +25,7 @@ function Who() {
         </div>
 
         <div className='col'>
-            <h5><i class="fas fa-globe"></i> The Best Carwash</h5>
+            <h5><i class="fa fa-globe"></i> The Best Carwash</h5>
             <ul>
                 <li>We offer multiple services at a great value</li><br />
                 <li>Biodegradable and eco-friendly products</li><br />
