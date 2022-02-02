@@ -25,16 +25,16 @@
     height: 20vh;
     display: flex;
     position: absolute;
-    bottom: 50%;
+    bottom: 60%;
 }
 .ul-booking{
     width: 100vw;
     list-style-type: none;
     margin: auto;
-    display: flex;
+    display: block;
 }
 .ul-booking li{
-    margin: 0%;
+    margin-bottom: 7%;
     /* changes here */
 }
 .Booking-1 h3{
