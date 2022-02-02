@@ -34,7 +34,8 @@
     display: flex;
 }
 .ul-booking li{
-    margin: 10%;
+    margin: 0%;
+    /* changes here */
 }
 .Booking-1 h3{
     color: whitesmoke;
