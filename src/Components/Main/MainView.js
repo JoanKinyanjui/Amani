@@ -7,14 +7,11 @@ function MainView(props){
   useEffect(()=>{
       TweenMax.from(
           logoItem,{
-              duration: 5,
+              duration: 8,
               fontSize: '0px',
               opacity: 0,
               ease: 'sine',
-              color:'transparent',
-              repeat: -1,
-              yoyo: true,
-              repeatDelay: 3,
+              color:'transparent'
           }
       )
   })
