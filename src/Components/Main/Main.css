@@ -32,6 +32,16 @@
     font-family: 'System';
     
 }
+@media only screen and (max-width: 960px){
+    .wordings{
+     font-size: 30px;
+     bottom: 25%;
+    }
+    .wordings{
+        font-size: 30px;
+        bottom: 25%;
+    }
+}
 .wordings1{
     width: 100%;
     margin: auto;

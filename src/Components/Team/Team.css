@@ -20,6 +20,18 @@
        
     }
 }
+@media only screen and (max-width:960px) {
+    .Team-img{
+        width: 45vw;
+        height: 15vh;
+    }
+    .Team1{
+        width: 40vw;
+        height: max-content;
+        font-size: 10px;
+       
+    }
+}
 .Team1{
     width: 25vw;
     height: max-content;
