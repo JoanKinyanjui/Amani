@@ -1,5 +1,6 @@
 import React from 'react';
 import Contact from '../Contact/Contact';
+import Extra from '../Extra/Extra';
 import Footer from '../Footer/Footer';
 import MainView from '../Main/MainView';
 import Services from '../Other Services/Services';
@@ -13,6 +14,7 @@ function About() {
         className='MainView1'
         />
         <Services />
+        <Extra />
         <Team />
         <Contact />
         <Footer />

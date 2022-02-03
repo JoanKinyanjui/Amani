@@ -1,19 +1,20 @@
 .Who{
     width: 100vw;
     height: max-content;
-    margin-top: 2rem;
+    margin-top: 4rem;
 }
 .who-is{
    margin: auto;
    text-align: center;
 }
+
 .container{
     display: flex;
     width: 100vw;
     height: max-content;
     flex-direction: row;
     flex-wrap: wrap;
-    margin-top: 2rem;
+    margin-top: 4rem;
 }
 .col-1{
     width: 100vw;

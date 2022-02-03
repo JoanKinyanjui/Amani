@@ -5,7 +5,8 @@ function Who() {
   return(
       <div className='Who'>
       <div className='who-is'>
-          <h2>Who Is AMANI Carwash?</h2>
+          <h2>WHO IS AMANI CARWASH?</h2>
+          <br />
           <i>Car wash & detailling service</i>
       </div>
       <div className='container'>
