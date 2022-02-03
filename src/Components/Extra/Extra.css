@@ -1,7 +1,8 @@
 .Extra{
     width: 100vw;
     height: max-content;
-    background-color: peru;
+    background-color: #1E90FF
+    ;
     text-align: center;
     display: flex;
     padding-bottom: 3rem;
@@ -33,6 +34,7 @@
     width: 20vw;
     height: 30vh;
     margin: auto;
+    margin-bottom: 2rem;
 }
 .theory-list{
     list-style-type: none;
