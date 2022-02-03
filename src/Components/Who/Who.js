@@ -15,7 +15,7 @@ function Who() {
              <img className='img-1' src='/Images/amani6.jpg'/>
                
             
-            <p><i class="fa fa-3x fa-car"></i><br /><br /><br />
+            <p><i style={{color: '#1E90FF'}}  class="fa fa-3x fa-car"></i><br /><br /><br />
                 Amani CarWash is an eco-friendly, hand car wash and detailing service based in Juja(Sewage). 
                 Our company was founded back in 2020 by a an enterprenuer Mr Kimando Njogu.
                   Our goal is to provide our customers with the friendliest, 
@@ -26,7 +26,7 @@ function Who() {
         </div>
 
         <div className='col'>
-            <h5><i class="fa fa-globe"></i> The Best Carwash</h5>
+            <h5><i style={{color: '#1E90FF'}}  class="fa fa-globe"></i> The Best Carwash</h5>
             <ul>
                 <li>We offer multiple services at a great value</li><br />
                 <li>Biodegradable and eco-friendly products</li><br />
@@ -35,7 +35,7 @@ function Who() {
         </div>
 
         <div className=' col'>
-        <h5><i class="fab fa-accessible-icon"></i> Contacting Us</h5>
+        <h5><i  style={{color: '#1E90FF'}}  class="fab fa-accessible-icon"></i> Contacting Us</h5>
             <ul>
                 <li>We are very open and easy to reach company</li><br />
                 <li>Our email is checked hourly during the day</li><br />
