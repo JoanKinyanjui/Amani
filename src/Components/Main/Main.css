@@ -1,7 +1,7 @@
 .MainView{
     width: 100vw;
     height:90vh;
-    background-image: linear-gradient(to bottom,transparent,black)  ,url('/public//Images/amani10.jpg');
+    background-image: linear-gradient(to bottom,transparent,black)  ,url('/public/Images/amani10.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

@@ -4,6 +4,7 @@ import About from './Components/About/About';
 import Contactus from "./Components/Contact/Contactus";
 import Home from './Components/Home/Home';
 import Nav from "./Components/Nav/Nav";
+import React from 'react';
 
 
 function App() {

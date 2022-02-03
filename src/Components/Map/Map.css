@@ -1,0 +1,9 @@
+.Map{
+    width: 100vw;
+    height: max-content;
+    background-color: #FFF5EE  ;
+    padding-bottom: 5rem;
+}
+.form{
+    padding-top: 3rem;
+}

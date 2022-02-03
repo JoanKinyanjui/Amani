@@ -2,7 +2,7 @@
   width: 100vw;
   height: 12vh;
   line-height: 3vh;
-  background-image: linear-gradient(to bottom,black,rgb(46, 44, 44),grey,transparent);
+  /* background-image: linear-gradient(to bottom,black,rgb(46, 44, 44),grey,transparent); */
   padding-bottom: 10px;
   position: fixed;
  
@@ -18,4 +18,5 @@
 .nav-item{
   text-decoration: none;
   color: white;
+  font-weight: 100000px;
 }

@@ -1,8 +1,11 @@
 .Contact{
-    width: 100%;
-     height: max-content;
+    width: 100vw;
      text-align: center;
-     margin-top: 0%;
+    height:90vh;
+    background-image: linear-gradient(to bottom,transparent,black)  ,url('/public/Images/amani15.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     
  }
  .Contactus{
@@ -10,15 +13,23 @@
      text-align: center;
      height:max-content;
      margin:auto;
-     background-color: white;
+     display: flex;
+     color: white; 
      padding-top: 2rem;
     
  
  }
  .call{
-     margin: 2rem;
+     margin: auto;
      opacity: 1;
+    position: absolute;
+    bottom: 30%;
+    width: 100vw;
+    
 
+ }
+ .call h2{
+     margin: auto;
  }
  .fab {
      margin: 20px;
@@ -28,8 +39,4 @@
      margin: 20px;
 
  }
- .array-img{
-    opacity: 1;
-     height: 60vh;
-     border-radius: 100%;
- }
+ 
