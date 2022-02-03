@@ -55,6 +55,8 @@
     flex: 45%;
     font-size: larger;
     margin: 20px;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
 }
 .col ul{
     list-style-type:  circle;
