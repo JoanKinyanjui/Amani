@@ -12,14 +12,17 @@
     .Extra{
         display: block;
     }
-   
+    .theory h3{
+        padding-top: 2rem;
+    }
 }
 .theory{
     flex: 50%;
     width: 100%;
     margin: auto;
-    margin-top: 2rem;
+
 }
+
 .theory p{
     margin-left: 20px;
     margin-right: 20px;
