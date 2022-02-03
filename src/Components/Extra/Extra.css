@@ -34,7 +34,8 @@
     width: 20vw;
     height: 30vh;
     margin: auto;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
+    margin-top:2rem ;
 }
 .theory-list{
     list-style-type: none;
