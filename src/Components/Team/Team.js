@@ -15,6 +15,7 @@ function Team() {
             <img src='/Images/jimmy.jpeg' className='Team-img'  />
             <p> Jimmy Njogu</p>
             <p>General Manager</p>
+            <p>(Environmental Consultant)</p>
         </div>
         <div className='Team1'>
             <img src='/Images/sharon1.jpeg' className='Team-img' />
