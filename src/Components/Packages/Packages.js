@@ -12,26 +12,25 @@ function Packages() {
     <div className='card'>
         <h6>Carpets</h6>
        
-        <p>30min</p>
+        <p>1-2 days</p>
         <hr />
-        <div><h5>ksh 300/ksh600</h5></div>
+        <div><h5>ksh 200-ksh1500</h5></div>
         <hr/>
-        <p>medium/large</p>
+        <p>Depends on the size</p>
       
       </div>
 
       <div className='card'>
         <h6>Motor Bikes</h6>
       
-        <p>30min</p>
+        <p>20min</p>
         <hr />
-        <div><h5>ksh 300</h5></div>
+        <div><h5>ksh 100</h5></div>
         <hr/>
         <ul>
           <li>Exterior Hand Wash</li>
           <li>Towel Hand Dy</li>
           <li>Wheel Shine</li>
-          <li>Widows In and out</li>
         </ul>
       
       </div>
@@ -39,9 +38,9 @@ function Packages() {
       <div className='card'>
         <h6>Regular Small Bikes</h6>
       
-        <p>30min</p>
+        <p>40min</p>
         <hr />
-        <div><h5>ksh 300</h5></div>
+        <div><h5>ksh 200</h5></div>
         <hr/>
         <ul>
           <li>Exterior Hand Wash</li>
@@ -54,9 +53,9 @@ function Packages() {
       <div className='card'>
         <h6>Medium Sized Cars</h6>
        
-        <p>30min</p>
+        <p>40min</p>
         <hr />
-        <div><h5>ksh 300</h5></div>
+        <div><h5>ksh 200</h5></div>
         <hr/>
         <ul>
           <li>Exterior Hand Wash</li>
@@ -70,7 +69,7 @@ function Packages() {
         <h6>Trucks</h6>
         <p>30min</p>
         <hr />
-        <div><h5>ksh 300</h5></div>
+        <div><h5>ksh 300-1000</h5></div>
         <hr/>
         <ul>
           <li>Exterior Hand Wash</li>

@@ -12,7 +12,7 @@ function Contact() {
           <div className='specific-contact' >
               <p><i class="fas fa-phone-alt"></i></p>
               <h6>Call Us At</h6>
-              <p>+254 701 435 481</p>
+              <p>0706131329</p>
           </div>
  <hr />
 
@@ -25,7 +25,7 @@ function Contact() {
           <div className='specific-contact' >
               <p><i class="fas fa-clock"></i></p>
               <h6>Working Hours</h6>
-              <p>Monday-Sunday(7:00a.m-11:00p.m)</p>
+              <p>Monday-Sunday(6:30a.m-10:00p.m)</p>
 
               <p></p>
           </div>

@@ -7,19 +7,24 @@ function Team() {
     <div className='Team'>
         
         <div className='Team1'>
-            <img  src='/Images/kimando.jpg' className='Team-img' />
-            <p>Lawrence Kimando</p>
+            <img  src='/Images/Dr.jpg' className='Team-img' />
+            <p>Dr. Njogu Kimando</p>
             <p>Founder</p>
         </div>
         <div className='Team1'>
-            <img src='/Images/jimmy.jpg' className='Team-img'  />
+            <img src='/Images/jimmy.jpeg' className='Team-img'  />
             <p> Jimmy Njogu</p>
-            <p>Manager</p>
+            <p>General Manager</p>
         </div>
         <div className='Team1'>
-            <img src='/Images/sharon.jpg' className='Team-img' />
+            <img src='/Images/sharon1.jpeg' className='Team-img' />
             <p>Sharon Wanjiru</p>
-            <p> Ass Manager</p>
+            <p> CFO Manager</p>
+        </div>
+        <div className='Team1'>
+            <img src='/Images/kamau.jpeg' className='Team-img' />
+            <p>Cynthia Kamau</p>
+            <p> Ass. Manager</p>
         </div>
       
     </div>
