@@ -9,7 +9,7 @@ function Team() {
         <div className='Team1'>
             <img  src='/Images/Dr.jpg' className='Team-img' />
             <p>Dr. Njogu Kimando</p>
-            <p>Founder</p>
+            <p>CEO</p>
         </div>
         <div className='Team1'>
             <img src='/Images/jimmy.jpeg' className='Team-img'  />
