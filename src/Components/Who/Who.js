@@ -17,7 +17,7 @@ function Who() {
             
             <p><i style={{color: '#1E90FF'}}  class="fa fa-3x fa-car"></i><br /><br /><br />
                 Amani CarWash is an eco-friendly, hand car wash and detailing service based in Juja(Sewage). 
-                Our company was founded back in 2020 by a an enterprenuer Mr Kimando Njogu.
+                Our company was founded back in 2020 by a an enterprenuer Dr. Kimando Njogu.
                   Our goal is to provide our customers with the friendliest, 
                  most convenient hand car wash experience possible. We use the most modern and up-to-date water reclamation 
                  modules as a part of our car wash systems. Our products are all biodegradable and eco-friendly.
