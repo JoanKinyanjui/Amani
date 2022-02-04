@@ -11,8 +11,8 @@ function Home() {
   return(
       <>
       <MainView 
-      title2='YOUR CAR IS ALWAYS IN GREAT HANDS WITH US'
-      title3='SERVICE POWERED BY HONESTY AND INTEGRITY'
+      title2='SERVICE POWERED BY HONESTY AND INTEGRITY'
+      title3='WE LOVE YOUR CAR AS MUCH AS YOU DO'
       className='MainView'
        />
       <Who />
