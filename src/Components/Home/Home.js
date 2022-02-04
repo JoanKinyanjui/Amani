@@ -12,7 +12,7 @@ function Home() {
       <>
       <MainView 
       title2='SERVICE POWERED BY HONESTY AND INTEGRITY'
-      title3='WE LOVE YOUR CAR AS MUCH AS YOU DO'
+      title3='SERVICE POWERED BY HONESTY AND INTEGRITYO'
       className='MainView'
        />
       <Who />
