@@ -1,6 +1,5 @@
 import { Button } from 'bootstrap';
 import React,{useState} from 'react';
-import Googlemap from './Googlemap';
 import './Map.css';
 
 function Map() {
